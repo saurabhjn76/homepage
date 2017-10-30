@@ -1,0 +1,100 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Dot Technologies Pvt LTD, Gurgaon
+    i18n: company_a
+  desc:
+    detail: I worked as Android Developer Intern , developed organisation’s application and enhanced UI,worked with many APIs and
+              implemented various modules.
+    i18n: company_a_desc
+  date:
+    detail: Jun. 2016
+    i18n: company_a_date
+  job:
+    detail: Software Developer Intern
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
+    detail: Indian Institute of Information Technology, Vadodara
+    i18n: company_b
+  desc:
+    detail: I worked as Teaching Assistant for Object Oriented Course at IIIT Vadodara
+    i18n: company_b_desc
+  date:
+    detail: Aug. 2016
+    i18n: company_b_date
+  job:
+    detail: Undergradaute Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Indian Institute of Information Technology, Vadodara
+    i18n: company_b
+  desc:
+    detail: I worked as Teaching Assistant for Computer Organization Course at IIIT Vadodara
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2017
+    i18n: company_b_date
+  job:
+    detail: Undergradaute Teaching Assistant
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Indian Institute of Technology, Hyderabad
+    i18n: company_b
+  desc:
+    detail: I worked as a research intern at IIT-H. Worked on enhancing modern SAT Solvers.
+    i18n: company_b_desc
+  date:
+    detail: May. 2017
+    i18n: company_b_date
+  job:
+    detail: Microsoft Student Research Intern
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Google, FOSSASIA
+    i18n: company_b
+  desc:
+    detail: I worked as a GSoC intern, on AI Chat bot SUSI.AI.
+    i18n: company_b_desc
+  date:
+    detail: May. 2017
+    i18n: company_b_date
+  job:
+    detail: Google Summer of Code Developer
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: Udacity
+    i18n: company_b
+  desc:
+    detail: I currently work as a classroom Mentor for Udacity
+    i18n: company_b_desc
+  date:
+    detail: Jun. 2017
+    i18n: company_b_date
+  job:
+    detail: Classroom Mentor
+    i18n: company_b_job
+  icon: fa-plus-square
+
+- name:
+    detail: FOSSASIA
+    i18n: company_b
+  desc:
+    detail: I currently work as a Codeheat Mentor for FOSSASIA
+    i18n: company_b_desc
+  date:
+    detail: Sep. 2017
+    i18n: company_b_date
+  job:
+    detail: Codeheat Mentor
+    i18n: company_b_job
+  icon: fa-plus-square
